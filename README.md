@@ -4,7 +4,7 @@ This is a tutorial I followed from freeCodeCamp (https://www.youtube.com/watch?v
 
 Aim of exercise for me was to familiarize with best practices in integrating PostgerSQL Database to NodeJS.
 
-##Running the project
+## Running the project
 
 1. Clone/Fork the project
 2. Install dependencies on client/server directories
