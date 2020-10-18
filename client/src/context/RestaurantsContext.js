@@ -17,7 +17,7 @@ export const RestaurantsContextProvider = (props) => {
         setRestaurants,
         addRestaurants,
         selectedRestaurant,
-        setSelectedRestaurant,
+        setSelectedRestaurants,
       }}
     >
       {props.children}
